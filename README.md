@@ -18,7 +18,3 @@ Identificar as editoras e desenvolvedoras de jogos mais bem-sucedidas no mundo.
 Conclusão:
 
 Os resultados do projeto serão relevantes para empresas do setor de jogos eletrônicos, que poderão utilizá-los para tomar decisões estratégicas.
-
-Esse texto explica o objetivo do projeto, a metodologia utilizada e os resultados esperados. Ele não fornece informações específicas sobre os dados ou os resultados da análise.
-
-Você pode adaptar esse texto de acordo com as suas necessidades específicas. Por exemplo, você pode adicionar mais detalhes sobre a metodologia utilizada ou sobre os resultados esperados.
