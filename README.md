@@ -15,6 +15,7 @@ Os resultados esperados do projeto são os seguintes:
 Identificar as principais tendências nas vendas de jogos do PS4 no mundo;
 Identificar os gêneros de jogos mais populares no mundo;
 Identificar as editoras e desenvolvedoras de jogos mais bem-sucedidas no mundo.
-Conclusão:
+
+## Conclusão:
 
 Os resultados do projeto serão relevantes para empresas do setor de jogos eletrônicos, que poderão utilizá-los para tomar decisões estratégicas.
